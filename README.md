@@ -8,26 +8,26 @@ This repository contains presentations and materials from the NOSIS Conference, 
 
 
 - # Opening Addresses
-    - Clare Dillon, Open Ireland Network [PDF](NOSIS-Conference/opening-addresses/Clares NOSIS Intro 2025.pptx.pdf) [Video](link_to_video)
-    - Barry Lowry, Irish Government CIO [PDF](NOSIS-Conference/opening-addresses/Barry Lowry - Open Source Feb 25 Barry Lowry.pptx.pdf) [Video](link_to_video)
-    - Anne Lanigan, Enterprise Ireland [PDF]() [Video](link_to_video)
-    - Gabriele Columbro, MD Linux Foundation Europe, ED of FINOS [PDF](NOSIS-Conference/opening-addresses/Gabriele Columbro - 20250206 - Ireland National Open Innovation Summit.pptx.pdf) [Video](link_to_video)
-    - Omar Mohsine, United Nations [PDF](NOSIS-Conference/opening-addresses/Omar Mohsine - Ireland OS Summit.pptx.pdf) [Video](link_to_video)
-    - Sachiko Muto, OpenForum Europe, Research Institutes of Sweden [PDF](NOSIS-Conference/opening-addresses/Sachiko Muto.pptx.pdf) [Video](link_to_video)
-    - Kathryn Lynch, Innovate Island [PDF](lNOSIS-Conference/opening-addresses/Kathryn Lynch - Open Source Summit February 2025 - More than a one night stand - Kathryn Lynch.pptx.pdf) [Video](link_to_video)
+    - Clare Dillon, Open Ireland Network [PDF](NOSIS-Conference/opening-addresses/Clares_NOSIS_Intro_2025.pptx.pdf) [Video](link_to_video)
+    - Barry Lowry, Irish Government CIO [PDF](NOSIS-Conference/opening-addresses/Barry_Lowry_-_Open_Source_Feb_25_Barry_Lowry.pptx.pdf) [Video](link_to_video)
+    - Anne Lanigan, Enterprise Ireland [PDF](NOSIS-Conference/opening-addresses/Anne_Lanigan_Enterprise_Ireland.pptx.pdf) [Video](link_to_video)
+    - Gabriele Columbro, MD Linux Foundation Europe, ED of FINOS [PDF](NOSIS-Conference/opening-addresses/Gabriele_Columbro_-_20250206_-_Ireland_National_Open_Innovation_Summit.pptx.pdf) [Video](link_to_video)
+    - Omar Mohsine, United Nations [PDF](NOSIS-Conference/opening-addresses/Omar_Mohsine_-_Ireland_OS_Summit.pptx.pdf) [Video](link_to_video)
+    - Sachiko Muto, OpenForum Europe, Research Institutes of Sweden [PDF](NOSIS-Conference/opening-addresses/Sachiko_Muto.pptx.pdf) [Video](link_to_video)
+    - Kathryn Lynch, Innovate Island [PDF](NOSIS-Conference/opening-addresses/Kathryn_Lynch_-_Open_Source_Summit_February_2025_-_More_than_a_one_night_stand_-_Kathryn_Lynch.pptx.pdf) [Video](link_to_video)
     # Main Sessions
-    - Open Source in Academia - Sayeed Choudhury, Carnegie Mellon University, Director of Open Forum for AI [PDF](NOSIS-Conference/main-sessions/academia/Sayeed - Open Source in Academia -- NOSIS 2025.pptx.pdf) [Video](link_to_video)
-    - Open Source at IBM Bill Higgins, IBM [PDF](NOSIS-Conference/main-sessions/ibm/Bill Higgins - OpenSource at IBM - Bill Higgins.pptx.pdf) [Video](link_to_video)
+    - Open Source in Academia - Sayeed Choudhury, Carnegie Mellon University, Director of Open Forum for AI [PDF](NOSIS-Conference/main-sessions/academia/Sayeed_-_Open_Source_in_Academia_--_NOSIS_2025.pptx.pdf) [Video](link_to_video)
+    - Open Source at IBM Bill Higgins, IBM [PDF](NOSIS-Conference/main-sessions/ibm/Bill_Higgins_-_OpenSource_at_IBM_-_Bill_Higgins.pptx.pdf) [Video](link_to_video)
     - PANEL: The Open Source Collaboration Opportunity for Ireland [Video](link_to_video)
         Dermot Casey, IRDG
         Clare Dillon, Open Ireland Network
         John Durcan, IDA
         Kathryn Lynch, Innovate Island
 - # Open source 101
-    - Open Source Business Basics - Malcolm Bain, Across Legal [PDF](NOSIS-Conference/main-sessions/oss-101/Malcolm Bain Open source 101 Business Basics.pdf) [Video](link_to_video)
-    - Setting Up Your OSS Management Process - Martin Callinan, Source Code Control & Joel Ratnosothy, Interneuron  [PDF](NOSIS-Conference/main-sessions/oss-101/Martin Callinan - Open Ireland Feb 25.pptx.pdf) [Video](link_to_video)
-    - How to Assess OSS Project Health - Daniel Izquierdo, Bitergia  [PDF](NOSIS-Conference/main-sessions/oss-101/Daniel Izquierdo - How to Assess OSS Health.pdf) [Video](link_to_video)
-    - Open Source Program Offices - an overview - Duane O'Brien, Capital One  [PDF](NOSIS-Conference/main-sessions/oss-101/Duane O'Brien - Open Source Programs Offices - An Overview.pptx.pdf) [Video](link_to_video)
+    - Open Source Business Basics - Malcolm Bain, Across Legal [PDF](NOSIS-Conference/main-sessions/oss-101/Malcolm_Bain_Open_source_101_Business_Basics.pdf) [Video](link_to_video)
+    - Setting Up Your OSS Management Process - Martin Callinan, Source Code Control & Joel Ratnosothy, Interneuron  [PDF](NOSIS-Conference/main-sessions/oss-101/Martin_Callinan_-_Open_Ireland_Feb_25.pptx.pdf) [Video](link_to_video)
+    - How to Assess OSS Project Health - Daniel Izquierdo, Bitergia  [PDF](NOSIS-Conference/main-sessions/oss-101/Daniel_Izquierdo_-_How_to_Assess_OSS_Health.pdf) [Video](link_to_video)
+    - Open Source Program Offices - an overview - Duane O'Brien, Capital One  [PDF](NOSIS-Conference/main-sessions/oss-101/Duane_O'Brien_-_Open_Source_Programs_Offices_-_An_Overview.pptx.pdf) [Video](link_to_video)
 - # Business Track
     - Open Source for the Enterprise -Amanda Casari, Google [PDF](link_to_pdf) [Video](link_to_video)
     - Unlocking Value with Open Source AI: A Sustainable and Secure Path Forward, Paul Bradley, AIB & Conor O'Neill, ServisBot [PDF](link_to_pdf) [Video](link_to_video)
