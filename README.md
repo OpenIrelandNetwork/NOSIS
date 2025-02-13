@@ -41,45 +41,45 @@ This repository contains presentations and materials from the NOSIS Conference, 
 - # Government Track 
     - Open Source in DAFM - Lousie McKeever, [PDF](<NOSIS-Conference/tracks/government/public-service/Louise McKeever - Opensource in DAFM 07022025.pdf>) [Video](link_to_video)
     - Open Source Building Blocks for Government - Dr Tony Shannon, OGCIO [PDF](link_to_pdf) [Video](link_to_video)
-    - PANEL: How Open Source Can Build Better Public Services [PDF](link_to_pdf) [Video](link_to_video)
-        Clare Dillon, Open Ireland Network
-        Gar Mac Criosta, HSE
-        Sachiko Muto, OpenForum Europe, RISE
-        Dr Tony Shannon, OGCIO
-        Martin Woodward, GitHub
+    - #PANEL: How Open Source Can Build Better Public Services  [Video](link_to_video)
+      -  Clare Dillon, Open Ireland Network
+      -  Gar Mac Criosta, HSE
+      -  Sachiko Muto, OpenForum Europe, RISE
+      -  Dr Tony Shannon, OGCIO
+      -  Martin Woodward, GitHub
     - Modern App Dev for Governments with Open Source - Martin Woodward, GitHub [PDF](<NOSIS-Conference/tracks/government/modern-dev/Martin Woodward - ModernGovDevfinal.pdf>) [Video](link_to_video)
-    - PANEL: Open Source and National Innovation Ecosystems [PDF](link_to_pdf) [Video](link_to_video)
-        Sayeed Choudhury, CMU
-        Jane Dillon, Enterprise Ireland
-        John Durcan, IDA
-        Mike Gifford, CivicActions
-        Joan Mulvihill, Siemens
+    - PANEL: Open Source and National Innovation Ecosystems [Video](link_to_video)
+      -  Sayeed Choudhury, CMU
+      -  John Durcan, IDA
+      -  Mike Gifford, CivicActions
+      -  Joan Mulvihill, Siemens
 - # Academic Track
     - Bioconductor: A Case Study in Open Source Innovation and Social Impact in Life Sciences - Dr Maria Doyle, Lero [PDF](<NOSIS-Conference/tracks/academic/bioconductor/NOSIS Bioconductor 7Feb2025.pdf>) [Video](link_to_video)
     - Semesters of Code - Building Essential OSS Skills - Stephen Walli, Microsoft [PDF](<NOSIS-Conference/tracks/academic/education/OpenSourceSoftwareEngineeringEd-Ireland.pdf>) [Video](link_to_video)
     - PANEL: How Ireland Can Address the Global OSS Skills Gap [Video](link_to_video)
-        Danese Cooper, InnerSource Commons
-        Michael Meagher, Open Ireland Network 
-        Stephen Walli, Microsoft
+      -  Danese Cooper, InnerSource Commons
+      -  Stella Power - Annertech
+      -  Michael Meagher, Open Ireland Network 
+      -  Stephen Walli, Microsoft
     -  The Turing Way - Malvika Sharan, Alan Turing Institute [PDF](<NOSIS-Conference/tracks/academic/Turing Way/MalvikaSharan-2025-02-07-TheTuringWay.pptx.pdf>) [Video](link_to_video)
     -  PANEL: Open Source and Open Research [Video](link_to_video)
-        Michelle Doran, NORF
-        Michael Meagher, Open Ireland Network 
-        Prof Noel O'Connor, INSIGHT
-        Malvika Sharan, Alan Turing Institute
+      -  Michelle Doran, NORF
+      -  Michael Meagher, Open Ireland Network 
+      -  Prof Noel O'Connor, INSIGHT
+      -  Malvika Sharan, Alan Turing Institute
 - # Open Source AI Track
     -  Open Source AI Definitions & Regulatory Overview - Ciaran O'Riordain, OFE [PDF](<NOSIS-Conference/tracks/open- source- ai/regulatory/oriordain-2025-01-07_AI_Act.pdf>) [Video](link_to_video)
     -  5 Ways Open Source is Critical to the Future of AI - Sayeed Choudhury, CMU, OFAI [PDF](<NOSIS-Conference/tracks/open- source- ai/future/Sayeed - 5 Ways Open Source AI -- NOSIS 2025.pptx.pdf>) [Video](link_to_video) 
     - PANEL: Global Open Source AI Opportunity  [Video](link_to_video)
-        Sayeed Choudhury, CMU, OFAI
-        Duane O'Brien, Capital One
-        Phil Weir, Flax and Teal
+      -  Sayeed Choudhury, CMU, OFAI
+      -  Duane O'Brien, Capital One
+      -  Phil Weir, Flax and Teal
     - Industry Vertical AI Collaborations in Europe - Martin Hickey, IBM [PDF](<NOSIS-Conference/tracks/open- source- ai/industry/Martin Hickey - IndustryVerticalAICollaborationsEurope - COGNIMAN.pptx.pdf>) [Video](link_to_video)
     - PANEL: Open Source AI in Ireland [Video](link_to_video)
-        Paul Browne, Enterprise Ireland
-        Liam Cronin, RDI Hub
-        Clare Dillon, Open Ireland Network
-        Edmond O'Connor, ADAPT Centre
-        Conor O'Neill, ServisBot
+      -  Paul Browne, Enterprise Ireland
+      -  Liam Cronin, RDI Hub
+      -  Clare Dillon, Open Ireland Network
+      -  Edmond O'Connor, ADAPT Centre
+      -  Conor O'Neill, ServisBot
 
 Each track contains presentations, in PDF format and a link to the video on YouTube
