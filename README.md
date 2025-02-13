@@ -63,10 +63,10 @@ This repository contains presentations and materials from the NOSIS Conference, 
       -  Stephen Walli, Microsoft
     -  The Turing Way - Malvika Sharan, Alan Turing Institute [PDF](<NOSIS-Conference/tracks/academic/Turing Way/MalvikaSharan-2025-02-07-TheTuringWay.pptx.pdf>) [Video](link_to_video)
     -  _PANEL_: Open Source and Open Research [Video](link_to_video)
-      -  Michelle Doran, NORF
-      -  Michael Meagher, Open Ireland Network 
-      -  Prof Noel O'Connor, INSIGHT
-      -  Malvika Sharan, Alan Turing Institute
+        -  Michelle Doran, NORF
+        -  Michael Meagher, Open Ireland Network 
+        -  Prof Noel O'Connor, INSIGHT
+        -  Malvika Sharan, Alan Turing Institute
 - # Open Source AI Track
     -  Open Source AI Definitions & Regulatory Overview - Ciaran O'Riordain, OFE [PDF](<NOSIS-Conference/tracks/open- source- ai/regulatory/oriordain-2025-01-07_AI_Act.pdf>) [Video](link_to_video)
     -  5 Ways Open Source is Critical to the Future of AI - Sayeed Choudhury, CMU, OFAI [PDF](<NOSIS-Conference/tracks/open- source- ai/future/Sayeed - 5 Ways Open Source AI -- NOSIS 2025.pptx.pdf>) [Video](link_to_video) 
