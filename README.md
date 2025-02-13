@@ -18,7 +18,7 @@ This repository contains presentations and materials from the NOSIS Conference, 
     # Main Sessions
     - Open Source in Academia - Sayeed Choudhury, Carnegie Mellon University, Director of Open Forum for AI [PDF](<NOSIS-Conference/main-sessions/academia/Sayeed - Open Source in Academia -- NOSIS 2025.pptx.pdf>) [Video](link_to_video)
     - Open Source at IBM Bill Higgins, IBM [PDF](<NOSIS-Conference/main-sessions/ibm/Bill Higgins - OpenSource at IBM - Bill Higgins.pptx.pdf>) [Video](link_to_video)
-    - PANEL: The Open Source Collaboration Opportunity for Ireland [Video](link_to_video)
+    - _PANEL_: The Open Source Collaboration Opportunity for Ireland [Video](link_to_video)
         Dermot Casey, IRDG
         Clare Dillon, Open Ireland Network
         John Durcan, IDA
@@ -31,7 +31,7 @@ This repository contains presentations and materials from the NOSIS Conference, 
 - # Business Track
     - Open Source for the Enterprise -Amanda Casari, Google [PDF](<NOSIS-Conference/tracks/business/enterprise/[INOSIS] amanda casari - The Business of Open Source @ Google.pdf>) [Video](link_to_video)
     - Unlocking Value with Open Source AI: A Sustainable and Secure Path Forward, Paul Bradley, AIB & Conor O'Neill, ServisBot [PDF](<NOSIS-Conference/tracks/business/ai-value/Biz - Conor ONeill - ServisBOT and AIB Irish National Open Source Innovation Summit Final2.pptx.pdf>) [Video](link_to_video)
-    - PANEL: Why Open Source is Essential for Modern Businesses [PDF](link_to_pdf) [Video](link_to_video)
+    - _PANEL_: Why Open Source is Essential for Modern Businesses [PDF](link_to_pdf) [Video](link_to_video)
         Gabriele Columbro, FINOS [PDF](link_to_pdf) [Video](link_to_video)
         Michelle Kearns, Boots [PDF](link_to_pdf) [Video](link_to_video)
         Bill Higgins, IBM [PDF](link_to_pdf) [Video](link_to_video)
@@ -41,14 +41,14 @@ This repository contains presentations and materials from the NOSIS Conference, 
 - # Government Track 
     - Open Source in DAFM - Lousie McKeever, [PDF](<NOSIS-Conference/tracks/government/public-service/Louise McKeever - Opensource in DAFM 07022025.pdf>) [Video](link_to_video)
     - Open Source Building Blocks for Government - Dr Tony Shannon, OGCIO [PDF](link_to_pdf) [Video](link_to_video)
-    - #PANEL: How Open Source Can Build Better Public Services  [Video](link_to_video)
+    - _PANEL_: How Open Source Can Build Better Public Services  [Video](link_to_video)
       -  Clare Dillon, Open Ireland Network
       -  Gar Mac Criosta, HSE
       -  Sachiko Muto, OpenForum Europe, RISE
       -  Dr Tony Shannon, OGCIO
       -  Martin Woodward, GitHub
     - Modern App Dev for Governments with Open Source - Martin Woodward, GitHub [PDF](<NOSIS-Conference/tracks/government/modern-dev/Martin Woodward - ModernGovDevfinal.pdf>) [Video](link_to_video)
-    - PANEL: Open Source and National Innovation Ecosystems [Video](link_to_video)
+    - _PANEL_: Open Source and National Innovation Ecosystems [Video](link_to_video)
       -  Sayeed Choudhury, CMU
       -  John Durcan, IDA
       -  Mike Gifford, CivicActions
@@ -56,13 +56,13 @@ This repository contains presentations and materials from the NOSIS Conference, 
 - # Academic Track
     - Bioconductor: A Case Study in Open Source Innovation and Social Impact in Life Sciences - Dr Maria Doyle, Lero [PDF](<NOSIS-Conference/tracks/academic/bioconductor/NOSIS Bioconductor 7Feb2025.pdf>) [Video](link_to_video)
     - Semesters of Code - Building Essential OSS Skills - Stephen Walli, Microsoft [PDF](<NOSIS-Conference/tracks/academic/education/OpenSourceSoftwareEngineeringEd-Ireland.pdf>) [Video](link_to_video)
-    - PANEL: How Ireland Can Address the Global OSS Skills Gap [Video](link_to_video)
+    - _PANEL_: How Ireland Can Address the Global OSS Skills Gap [Video](link_to_video)
       -  Danese Cooper, InnerSource Commons
       -  Stella Power - Annertech
       -  Michael Meagher, Open Ireland Network 
       -  Stephen Walli, Microsoft
     -  The Turing Way - Malvika Sharan, Alan Turing Institute [PDF](<NOSIS-Conference/tracks/academic/Turing Way/MalvikaSharan-2025-02-07-TheTuringWay.pptx.pdf>) [Video](link_to_video)
-    -  PANEL: Open Source and Open Research [Video](link_to_video)
+    -  _PANEL_: Open Source and Open Research [Video](link_to_video)
       -  Michelle Doran, NORF
       -  Michael Meagher, Open Ireland Network 
       -  Prof Noel O'Connor, INSIGHT
@@ -70,12 +70,12 @@ This repository contains presentations and materials from the NOSIS Conference, 
 - # Open Source AI Track
     -  Open Source AI Definitions & Regulatory Overview - Ciaran O'Riordain, OFE [PDF](<NOSIS-Conference/tracks/open- source- ai/regulatory/oriordain-2025-01-07_AI_Act.pdf>) [Video](link_to_video)
     -  5 Ways Open Source is Critical to the Future of AI - Sayeed Choudhury, CMU, OFAI [PDF](<NOSIS-Conference/tracks/open- source- ai/future/Sayeed - 5 Ways Open Source AI -- NOSIS 2025.pptx.pdf>) [Video](link_to_video) 
-    - PANEL: Global Open Source AI Opportunity  [Video](link_to_video)
+    - _PANEL_: Global Open Source AI Opportunity  [Video](link_to_video)
       -  Sayeed Choudhury, CMU, OFAI
       -  Duane O'Brien, Capital One
       -  Phil Weir, Flax and Teal
     - Industry Vertical AI Collaborations in Europe - Martin Hickey, IBM [PDF](<NOSIS-Conference/tracks/open- source- ai/industry/Martin Hickey - IndustryVerticalAICollaborationsEurope - COGNIMAN.pptx.pdf>) [Video](link_to_video)
-    - PANEL: Open Source AI in Ireland [Video](link_to_video)
+    - _PANEL_: Open Source AI in Ireland [Video](link_to_video)
       -  Paul Browne, Enterprise Ireland
       -  Liam Cronin, RDI Hub
       -  Clare Dillon, Open Ireland Network
