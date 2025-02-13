@@ -8,7 +8,7 @@ This repository contains presentations and materials from the NOSIS Conference, 
 
 
 - # Opening Addresses
-    - Clare Dillon, Open Ireland Network [PDF] (NOSIS-Conference\opening-addresses\Clares NOSIS Intro 2025.pptx.pdf) [Video](link_to_video)
+    - Clare Dillon, Open Ireland Network [PDF](<NOSIS-Conference/opening-addresses/Clares NOSIS Intro 2025.pptx.pdf>) [Video]()
     - Barry Lowry, Irish Government CIO [PDF] (NOSIS-Conference/opening-addresses/Barry Lowry-Open_Source Feb 25 BarryLowry.pptx.pdf) [Video](link_to_video)
     - Anne Lanigan, Enterprise Ireland [PDF]() [Video](link_to_video)
     - Gabriele Columbro, MD Linux Foundation Europe, ED of FINOS [PDF](NOSIS-Conference/opening-addresses/Gabriele Columbro-20250206 -Ireland National Open Innovation Summit.pptx.pdf) [Video](link_to_video)
