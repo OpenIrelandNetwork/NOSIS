@@ -1,6 +1,6 @@
 ## National Open Source Innovation Summit Overview
 
-The National Open Source Innovation Summit was held on the 7th of February 20025 and brought together a diverse ecosystem of technology leaders, innovators, and decision-makers across Ireland's business, academic, and public sectors. With over 218 attendees, the event demonstrated the growing strategic importance of open source across all sectors of the Irish economy.
+The National Open Source Innovation Summit was held on the 7th of February 20025 and brought together a diverse ecosystem of technology leaders, innovators, and decision-makers across Ireland's business, academic, and public sectors. With over 200 attendees, the event demonstrated the growing strategic importance of open source across all sectors of the Irish economy.
 This event demonstrated Ireland's position as a hub for open source innovation, bringing together key stakeholders from enterprises, government, and academia to drive digital transformation and technological advancement, supported by a host of International expert speakers in attendance.
 
 ## Summit Repository
@@ -42,7 +42,7 @@ This repository contains presentations and materials from the National Open Sour
 
 ### Government Track 
    - Open Source in DAFM - Lousie McKeever, [PDF](<NOSIS-Conference/tracks/government/public-service/Louise McKeever - Opensource in DAFM 07022025.pdf>) 
-    - Open Source Building Blocks for Government - Dr Tony Shannon, OGCIO [PDF](link_to_pdf) 
+    - Open Source Building Blocks for Government - Dr Tony Shannon, OGCIO [PDF](<NOSIS-Conference/tracks/government/modern-dev/BetterPublicServicesDigitalPublicInfrastructureDigPublicGoodsDataGov2025Feb.pdf>) 
     - _PANEL_: How Open Source Can Build Better Public Services  
       -  Clare Dillon, Open Ireland Network
       -  Gar Mac Criosta, HSE
