@@ -1,13 +1,12 @@
-## National Open Source Innovation Conference Overview
+## National Open Source Innovation Summit Overview
 
 The National Open Source Innovation Summit was held on the 7th of February 20025 and brought together a diverse ecosystem of technology leaders, innovators, and decision-makers across Ireland's business, academic, and public sectors. With over 218 attendees, the event demonstrated the growing strategic importance of open source across all sectors of the Irish economy.
 This event demonstrated Ireland's position as a hub for open source innovation, bringing together key stakeholders from enterprises, government, and academia to drive digital transformation and technological advancement, supported by a host of International expert speakers in attendance.
 
-## Conference Repository
-This repository contains presentations and materials from the NOSIS Conference, organized into the following tracks:
+## Summit Repository
+This repository contains presentations and materials from the National Open Source Innovation Summit, organized into the following tracks:
 
-
-- # Opening Addresses
+### Opening Addresses
     - Clare Dillon, Open Ireland Network [PDF](<NOSIS-Conference/opening-addresses/Clares NOSIS Intro 2025.pptx.pdf>) [Video](link_to_video)
     - Barry Lowry, Irish Government CIO [PDF](<NOSIS-Conference/opening-addresses/Barry Lowry - Open Source Feb 25 Barry Lowry.pptx.pdf>) [Video](link_to_video)
     - Anne Lanigan, Enterprise Ireland [PDF]() [Video](link_to_video)
@@ -23,12 +22,12 @@ This repository contains presentations and materials from the NOSIS Conference, 
        - Clare Dillon, Open Ireland Network
        - John Durcan, IDA
        - Kathryn Lynch, Innovate Island
-- # Open source 101
+### Open source 101
     - Open Source Business Basics - Malcolm Bain, Across Legal [PDF](<NOSIS-Conference/main-sessions/oss-101/Malcolm Bain Open source 101 Business Basics.pdf>) [Video](link_to_video)
     - Setting Up Your OSS Management Process - Martin Callinan, Source Code Control & Joel Ratnosothy, Interneuron  [PDF](<NOSIS-Conference/main-sessions/oss-101/Martin Callinan - Open Ireland Feb 25.pptx.pdf>) [Video](link_to_video)
     - How to Assess OSS Project Health - Daniel Izquierdo, Bitergia  [PDF](<NOSIS-Conference/main-sessions/oss-101/Daniel Izquierdo - How to Assess OSS Health.pdf>) [Video](link_to_video)
     - Open Source Program Offices - an overview - Duane O'Brien, Capital One  [PDF](<NOSIS-Conference/main-sessions/oss-101/Duane O'Brien - Open Source Programs Offices - An Overview.pptx.pdf>) [Video](link_to_video)
-- # Business Track
+### Business Track
     - Open Source for the Enterprise -Amanda Casari, Google [PDF](<NOSIS-Conference/tracks/business/enterprise/[INOSIS] amanda casari - The Business of Open Source @ Google.pdf>) [Video](link_to_video)
     - Unlocking Value with Open Source AI: A Sustainable and Secure Path Forward, Paul Bradley, AIB & Conor O'Neill, ServisBot [PDF](<NOSIS-Conference/tracks/business/ai-value/Biz - Conor ONeill - ServisBOT and AIB Irish National Open Source Innovation Summit Final2.pptx.pdf>) [Video](link_to_video)
     - _PANEL_: Why Open Source is Essential for Modern Businesses  [Video](link_to_video)
@@ -38,7 +37,7 @@ This repository contains presentations and materials from the NOSIS Conference, 
        - Colm Harte, NearForm 
        - Oisin Hurley, Chunky Labs 
     - A Vision of Open Source at Meredes-Benz -Dr Wolfgang Gehring, Mercedes-Benz [PDF](<NOSIS-Conference/tracks/business/mercedes/2025-02-07_The Power of FOSS - Insights from Mercedes-Benz_Wolfgang Gehring_Open Ireland.pdf>) [Video](link_to_video)
-- # Government Track 
+### Government Track 
     - Open Source in DAFM - Lousie McKeever, [PDF](<NOSIS-Conference/tracks/government/public-service/Louise McKeever - Opensource in DAFM 07022025.pdf>) [Video](link_to_video)
     - Open Source Building Blocks for Government - Dr Tony Shannon, OGCIO [PDF](link_to_pdf) [Video](link_to_video)
     - _PANEL_: How Open Source Can Build Better Public Services  [Video](link_to_video)
@@ -53,7 +52,7 @@ This repository contains presentations and materials from the NOSIS Conference, 
       -  John Durcan, IDA
       -  Mike Gifford, CivicActions
       -  Joan Mulvihill, Siemens
-- # Academic Track
+### Academic Track
     - Bioconductor: A Case Study in Open Source Innovation and Social Impact in Life Sciences - Dr Maria Doyle, Lero [PDF](<NOSIS-Conference/tracks/academic/bioconductor/NOSIS Bioconductor 7Feb2025.pdf>) [Video](link_to_video)
     - Semesters of Code - Building Essential OSS Skills - Stephen Walli, Microsoft [PDF](<NOSIS-Conference/tracks/academic/education/OpenSourceSoftwareEngineeringEd-Ireland.pdf>) [Video](link_to_video)
     - _PANEL_: How Ireland Can Address the Global OSS Skills Gap [Video](link_to_video)
@@ -67,7 +66,7 @@ This repository contains presentations and materials from the NOSIS Conference, 
         -  Michael Meagher, Open Ireland Network 
         -  Prof Noel O'Connor, INSIGHT
         -  Malvika Sharan, Alan Turing Institute
-- # Open Source AI Track
+### Open Source AI Track
     -  Open Source AI Definitions & Regulatory Overview - Ciaran O'Riordain, OFE [PDF](<NOSIS-Conference/tracks/open- source- ai/regulatory/oriordain-2025-01-07_AI_Act.pdf>) [Video](link_to_video)
     -  5 Ways Open Source is Critical to the Future of AI - Sayeed Choudhury, CMU, OFAI [PDF](<NOSIS-Conference/tracks/open- source- ai/future/Sayeed - 5 Ways Open Source AI -- NOSIS 2025.pptx.pdf>) [Video](link_to_video) 
     - _PANEL_: Global Open Source AI Opportunity  [Video](link_to_video)
@@ -82,4 +81,4 @@ This repository contains presentations and materials from the NOSIS Conference, 
       -  Edmond O'Connor, ADAPT Centre
       -  Conor O'Neill, ServisBot
 
-Each track contains presentations, in PDF format and a link to the video on YouTube
+Each track contains presentations, in PDF format and a link to the video (where available) on YouTube
