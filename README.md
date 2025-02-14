@@ -6,8 +6,6 @@ This event demonstrated Ireland's position as a hub for open source innovation, 
 ## Summit Repository
 This repository contains presentations and materials from the National Open Source Innovation Summit, organized into the following tracks:
 
-<<<<<<< HEAD
-
 - # Opening Addresses
     - Clare Dillon, Open Ireland Network [PDF](<NOSIS-Conference/opening-addresses/Clares NOSIS Intro 2025.pptx.pdf>) 
     - Barry Lowry, Irish Government CIO [PDF](<NOSIS-Conference/opening-addresses/Barry Lowry - Open Source Feb 25 Barry Lowry.pptx.pdf>) 
