@@ -29,7 +29,7 @@ This repository contains presentations and materials from the National Open Sour
 - How to Assess OSS Project Health - Daniel Izquierdo, Bitergia  [PDF](<NOSIS-Conference/main-sessions/oss-101/Daniel Izquierdo - How to Assess OSS Health.pdf>) 
 - Open Source Program Offices - an overview - Duane O'Brien, Capital One  [PDF](<NOSIS-Conference/main-sessions/oss-101/Duane O'Brien - Open Source Programs Offices - An Overview.pptx.pdf>) 
 
-### Business Track
+# Business Track
 - Open Source for the Enterprise -Amanda Casari, Google [PDF](<NOSIS-Conference/tracks/business/enterprise/[INOSIS] amanda casari - The Business of Open Source @ Google.pdf>) 
 - Unlocking Value with Open Source AI: A Sustainable and Secure Path Forward, Paul Bradley, AIB & Conor O'Neill, ServisBot [PDF](<NOSIS-Conference/tracks/business/ai-value/Biz - Conor ONeill - ServisBOT and AIB Irish National Open Source Innovation Summit Final2.pptx.pdf>) 
 - **PANEL**
@@ -40,17 +40,17 @@ This repository contains presentations and materials from the National Open Sour
   - Oisin Hurley, Chunky Labs 
 - A Vision of Open Source at Meredes-Benz -Dr Wolfgang Gehring, Mercedes-Benz [PDF](<NOSIS-Conference/tracks/business/mercedes/2025-02-07_The Power of FOSS - Insights from Mercedes-Benz_Wolfgang Gehring_Open Ireland.pdf>) 
 
-### Government Track 
+# Government Track 
    - Open Source in DAFM - Lousie McKeever, [PDF](<NOSIS-Conference/tracks/government/public-service/Louise McKeever - Opensource in DAFM 07022025.pdf>) 
    - Open Source Building Blocks for Government - Dr Tony Shannon, OGCIO [PDF](<NOSIS-Conference/tracks/government/modern-dev/BetterPublicServicesDigitalPublicInfrastructureDigPublicGoodsDataGov2025Feb.pdf>) 
-    - _PANEL_: How Open Source Can Build Better Public Services  
+   - _PANEL_: How Open Source Can Build Better Public Services  
       -  Clare Dillon, Open Ireland Network
       -  Gar Mac Criosta, HSE
       -  Sachiko Muto, OpenForum Europe, RISE
       -  Dr Tony Shannon, OGCIO
       -  Martin Woodward, GitHub
-    - Modern App Dev for Governments with Open Source - Martin Woodward, GitHub [PDF](<NOSIS-Conference/tracks/government/modern-dev/Martin Woodward - ModernGovDevfinal.pdf>)
-    - _PANEL_: Open Source and National Innovation Ecosystems 
+   - Modern App Dev for Governments with Open Source - Martin Woodward, GitHub [PDF](<NOSIS-Conference/tracks/government/modern-dev/Martin Woodward - ModernGovDevfinal.pdf>)
+   - _PANEL_: Open Source and National Innovation Ecosystems 
       -  John Durcan, IDA
       -  Mike Gifford, CivicActions
       -  Joan Mulvihill, Siemens
