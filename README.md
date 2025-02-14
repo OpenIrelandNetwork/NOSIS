@@ -1,10 +1,10 @@
-## National Open Source Innovation Conference Overview
+## National Open Source Innovation Summit Overview
 
 The National Open Source Innovation Summit was held on the 7th of February 20025 and brought together a diverse ecosystem of technology leaders, innovators, and decision-makers across Ireland's business, academic, and public sectors. With over 218 attendees, the event demonstrated the growing strategic importance of open source across all sectors of the Irish economy.
 This event demonstrated Ireland's position as a hub for open source innovation, bringing together key stakeholders from enterprises, government, and academia to drive digital transformation and technological advancement, supported by a host of International expert speakers in attendance.
 
-## Conference Repository
-This repository contains presentations and materials from the NOSIS Conference, organized into the following tracks:
+## Summit Repository
+This repository contains presentations and materials from the National Open Source Innovation Summit, organized into the following tracks:
 
 
 - # Opening Addresses
@@ -81,4 +81,4 @@ This repository contains presentations and materials from the NOSIS Conference, 
       -  Edmond O'Connor, ADAPT Centre
       -  Conor O'Neill, ServisBot
 
-Each track contains presentations, in PDF format and a link to the video on YouTube
+Each track contains presentations, in PDF format and a link to the video (where available) on YouTube
