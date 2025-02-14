@@ -52,6 +52,7 @@ This repository contains presentations and materials from the National Open Sour
    - Modern App Dev for Governments with Open Source - Martin Woodward, GitHub [PDF](<NOSIS-Conference/tracks/government/modern-dev/Martin Woodward - ModernGovDevfinal.pdf>)
    - _PANEL_: Open Source and National Innovation Ecosystems 
       -  John Durcan, IDA
+      -  Sayeed Choudhury, CMU
       -  Mike Gifford, CivicActions
       -  Joan Mulvihill, Siemens
 - # Academic Track
