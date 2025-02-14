@@ -6,7 +6,7 @@ This event demonstrated Ireland's position as a hub for open source innovation, 
 ## Summit Repository
 This repository contains presentations and materials from the National Open Source Innovation Summit, organized into the following tracks:
 
-### Opening Addresses
+# Opening Addresses
 - Clare Dillon, Open Ireland Network [PDF](<NOSIS-Conference/opening-addresses/Clares NOSIS Intro 2025.pptx.pdf>) 
 - Barry Lowry, Irish Government CIO [PDF](<NOSIS-Conference/opening-addresses/Barry Lowry - Open Source Feb 25 Barry Lowry.pptx.pdf>) 
 - Anne Lanigan, Enterprise Ireland 
@@ -15,7 +15,7 @@ This repository contains presentations and materials from the National Open Sour
 - Sachiko Muto, OpenForum Europe, Research Institutes of Sweden [PDF](<NOSIS-Conference/opening-addresses/Sachiko Muto.pptx.pdf>) 
 - Kathryn Lynch, Innovate Island [PDF](<lNOSIS-Conference/opening-addresses/Kathryn Lynch - Open Source Summit February 2025 - More than a one night stand - Kathryn Lynch.pptx.pdf>) 
 
-### Main Sessions
+# Main Sessions
 - Open Source in Academia - Sayeed Choudhury, Carnegie Mellon University, Director of Open Forum for AI [PDF](<NOSIS-Conference/main-sessions/academia/Sayeed - Open Source in Academia -- NOSIS 2025.pptx.pdf>) 
 - Open Source at IBM Bill Higgins, IBM [PDF](<NOSIS-Conference/main-sessions/ibm/Bill Higgins - OpenSource at IBM - Bill Higgins.pptx.pdf>) 
 - _PANEL_: The Open Source Collaboration Opportunity for Ireland 
