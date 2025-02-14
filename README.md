@@ -9,7 +9,7 @@ This repository contains presentations and materials from the National Open Sour
 ### Opening Addresses
 - Clare Dillon, Open Ireland Network [PDF](<NOSIS-Conference/opening-addresses/Clares NOSIS Intro 2025.pptx.pdf>) 
 - Barry Lowry, Irish Government CIO [PDF](<NOSIS-Conference/opening-addresses/Barry Lowry - Open Source Feb 25 Barry Lowry.pptx.pdf>) 
-- Anne Lanigan, Enterprise Ireland [PDF]() 
+- Anne Lanigan, Enterprise Ireland 
 - Gabriele Columbro, MD Linux Foundation Europe, ED of FINOS [PDF](<NOSIS-Conference/opening-addresses/Gabriele Columbro - 20250206 - Ireland National Open Innovation Summit.pptx.pdf>) 
 - Omar Mohsine, United Nations [PDF](<NOSIS-Conference/opening-addresses/Omar Mohsine - Ireland OS Summit.pptx.pdf>) 
 - Sachiko Muto, OpenForum Europe, Research Institutes of Sweden [PDF](<NOSIS-Conference/opening-addresses/Sachiko Muto.pptx.pdf>) 
@@ -42,7 +42,7 @@ This repository contains presentations and materials from the National Open Sour
 
 ### Government Track 
    - Open Source in DAFM - Lousie McKeever, [PDF](<NOSIS-Conference/tracks/government/public-service/Louise McKeever - Opensource in DAFM 07022025.pdf>) 
-    - Open Source Building Blocks for Government - Dr Tony Shannon, OGCIO [PDF](<NOSIS-Conference/tracks/government/modern-dev/BetterPublicServicesDigitalPublicInfrastructureDigPublicGoodsDataGov2025Feb.pdf>) 
+   - Open Source Building Blocks for Government - Dr Tony Shannon, OGCIO [PDF](<NOSIS-Conference/tracks/government/modern-dev/BetterPublicServicesDigitalPublicInfrastructureDigPublicGoodsDataGov2025Feb.pdf>) 
     - _PANEL_: How Open Source Can Build Better Public Services  
       -  Clare Dillon, Open Ireland Network
       -  Gar Mac Criosta, HSE
