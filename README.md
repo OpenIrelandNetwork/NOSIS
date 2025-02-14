@@ -16,9 +16,9 @@ This repository contains presentations and materials from the National Open Sour
 - Kathryn Lynch, Innovate Island [PDF](<lNOSIS-Conference/opening-addresses/Kathryn Lynch - Open Source Summit February 2025 - More than a one night stand - Kathryn Lynch.pptx.pdf>) 
 
 ### Main Sessions
-- Open Source in Academia - Sayeed Choudhury, Carnegie Mellon University, Director of Open Forum for AI [PDF](<NOSIS-Conference/main-sessions/academia/Sayeed - Open Source in Academia -- NOSIS 2025.pptx.pdf>) [Video](link_to_video)
+- Open Source in Academia - Sayeed Choudhury, Carnegie Mellon University, Director of Open Forum for AI [PDF](<NOSIS-Conference/main-sessions/academia/Sayeed - Open Source in Academia -- NOSIS 2025.pptx.pdf>) 
 - Open Source at IBM Bill Higgins, IBM [PDF](<NOSIS-Conference/main-sessions/ibm/Bill Higgins - OpenSource at IBM - Bill Higgins.pptx.pdf>) 
-- _PANEL_: The Open Source Collaboration Opportunity for Ireland [Video](link_to_video)
+- _PANEL_: The Open Source Collaboration Opportunity for Ireland 
   - Dermot Casey, IRDG
   - Clare Dillon, Open Ireland Network
   - John Durcan, IDA
@@ -65,7 +65,7 @@ This repository contains presentations and materials from the National Open Sour
   - Stella Power - Annertech
   - Michael Meagher, Open Ireland Network 
   - Stephen Walli, Microsoft
-- The Turing Way - Malvika Sharan, Alan Turing Institute [PDF](<NOSIS-Conference/tracks/academic/Turing Way/MalvikaSharan-2025-02-07-TheTuringWay.pptx.pdf>) [Video](link_to_video)
+- The Turing Way - Malvika Sharan, Alan Turing Institute [PDF](<NOSIS-Conference/tracks/academic/Turing Way/MalvikaSharan-2025-02-07-TheTuringWay.pptx.pdf>) 
 - _PANEL_: Open Source and Open Research 
   - Michelle Doran, NORF
   - Michael Meagher, Open Ireland Network 
