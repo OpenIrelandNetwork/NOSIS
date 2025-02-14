@@ -31,7 +31,7 @@ This repository contains presentations and materials from the National Open Sour
 
 # Business Track
 - Open Source for the Enterprise -Amanda Casari, Google [PDF](<NOSIS-Conference/tracks/business/enterprise/[INOSIS] amanda casari - The Business of Open Source @ Google.pdf>) 
-- Unlocking Value with Open Source AI: A Sustainable and Secure Path Forward, Paul Bradley, AIB & Conor O'Neill, ServisBot [PDF](<NOSIS-Conference/tracks/business/ai-value/Biz - Conor ONeill - ServisBOT and AIB Irish National Open Source Innovation Summit Final2.pptx.pdf>) 
+- Unlocking Value with Open Source AI: A Sustainable and Secure Path Forward, Paul Bradley, AIB & Conor O'Neill, ServisBot 
 - **PANEL**
   - Gabriele Columbro, FINOS
   - Michelle Kearns, Boots
