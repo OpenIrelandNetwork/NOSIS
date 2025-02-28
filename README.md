@@ -7,13 +7,13 @@ This event demonstrated Ireland's position as a hub for open source innovation, 
 This repository contains presentations and materials from the National Open Source Innovation Summit, organized into the following tracks:
 
 # Opening Addresses
-- Clare Dillon, Open Ireland Network [PDF](<NOSIS-Conference/opening-addresses/Clares NOSIS Intro 2025.pptx.pdf>) 
-- Barry Lowry, Irish Government CIO [PDF](<NOSIS-Conference/opening-addresses/Barry Lowry - Open Source Feb 25 Barry Lowry.pptx.pdf>) 
-- Anne Lanigan, Enterprise Ireland 
-- Gabriele Columbro, MD Linux Foundation Europe, ED of FINOS [PDF](<NOSIS-Conference/opening-addresses/Gabriele Columbro - 20250206 - Ireland National Open Innovation Summit.pptx.pdf>) 
-- Omar Mohsine, United Nations [PDF](<NOSIS-Conference/opening-addresses/Omar Mohsine - Ireland OS Summit.pptx.pdf>) 
-- Sachiko Muto, OpenForum Europe, Research Institutes of Sweden [PDF](<NOSIS-Conference/opening-addresses/Sachiko Muto.pptx.pdf>) 
-- Kathryn Lynch, Innovate Island [PDF](<NOSIS-Conference/opening-addresses/Kathryn Lynch - Open Source Summit February 2025 - More than a one night stand - Kathryn Lynch.pdf>) 
+- Clare Dillon, Open Ireland Network [PDF](<NOSIS-Conference/opening-addresses/Clares NOSIS Intro 2025.pptx.pdf>) [Recording](<https://youtu.be/yElgIWHItBE>)
+- Barry Lowry, Irish Government CIO [PDF](<NOSIS-Conference/opening-addresses/Barry Lowry - Open Source Feb 25 Barry Lowry.pptx.pdf>) [Recording](<https://youtu.be/kqytx-1eZZY)
+- Anne Lanigan, Enterprise Ireland [Recording](<https://youtu.be/VNZrD_LGqeM>)
+- Gabriele Columbro, MD Linux Foundation Europe, ED of FINOS [PDF](<NOSIS-Conference/opening-addresses/Gabriele Columbro - 20250206 - Ireland National Open Innovation Summit.pptx.pdf>) [Recording](<https://youtu.be/nfThuaymaok>)
+- Omar Mohsine, United Nations [PDF](<NOSIS-Conference/opening-addresses/Omar Mohsine - Ireland OS Summit.pptx.pdf>) [Recording](<https://youtu.be/bAo6v8eGlfU>)
+- Sachiko Muto, OpenForum Europe, Research Institutes of Sweden [PDF](<NOSIS-Conference/opening-addresses/Sachiko Muto.pptx.pdf>) [Recording](<https://youtu.be/l_McPVIzkZg>)
+- Kathryn Lynch, Innovate Island [PDF](<NOSIS-Conference/opening-addresses/Kathryn Lynch - Open Source Summit February 2025 - More than a one night stand - Kathryn Lynch.pdf>) [Recording](<https://youtu.be/Ptq26d3jA3Y>)
 
 # Main Sessions
 - Open Source in Academia - Sayeed Choudhury, Carnegie Mellon University, Director of Open Forum for AI [PDF](<NOSIS-Conference/main-sessions/academia/Sayeed - Open Source in Academia -- NOSIS 2025.pptx.pdf>) 
