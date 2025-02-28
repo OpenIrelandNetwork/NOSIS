@@ -8,7 +8,7 @@ This repository contains presentations and materials from the National Open Sour
 
 # Opening Addresses
 - Clare Dillon, Open Ireland Network [PDF](<NOSIS-Conference/opening-addresses/Clares NOSIS Intro 2025.pptx.pdf>) [Recording](<https://youtu.be/yElgIWHItBE>)
-- Barry Lowry, Irish Government CIO [PDF](<NOSIS-Conference/opening-addresses/Barry Lowry - Open Source Feb 25 Barry Lowry.pptx.pdf>) [Recording](<https://youtu.be/kqytx-1eZZY)
+- Barry Lowry, Irish Government CIO [PDF](<NOSIS-Conference/opening-addresses/Barry Lowry - Open Source Feb 25 Barry Lowry.pptx.pdf>) [Recording](<https://youtu.be/kqytx-1eZZY>)
 - Anne Lanigan, Enterprise Ireland [Recording](<https://youtu.be/VNZrD_LGqeM>)
 - Gabriele Columbro, MD Linux Foundation Europe, ED of FINOS [PDF](<NOSIS-Conference/opening-addresses/Gabriele Columbro - 20250206 - Ireland National Open Innovation Summit.pptx.pdf>) [Recording](<https://youtu.be/nfThuaymaok>)
 - Omar Mohsine, United Nations [PDF](<NOSIS-Conference/opening-addresses/Omar Mohsine - Ireland OS Summit.pptx.pdf>) [Recording](<https://youtu.be/bAo6v8eGlfU>)
