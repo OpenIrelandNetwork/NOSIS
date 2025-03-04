@@ -16,18 +16,18 @@ This repository contains presentations and materials from the National Open Sour
 - Kathryn Lynch, Innovate Island [PDF](<NOSIS-Conference/opening-addresses/Kathryn Lynch - Open Source Summit February 2025 - More than a one night stand - Kathryn Lynch.pdf>) [Recording](<https://youtu.be/Ptq26d3jA3Y>)
 
 # Main Sessions
-- Open Source in Academia - Sayeed Choudhury, Carnegie Mellon University, Director of Open Forum for AI [PDF](<NOSIS-Conference/main-sessions/academia/Sayeed - Open Source in Academia -- NOSIS 2025.pptx.pdf>) 
-- Open Source at IBM Bill Higgins, IBM [PDF](<NOSIS-Conference/main-sessions/ibm/Bill Higgins - OpenSource at IBM - Bill Higgins.pptx.pdf>) 
-- _PANEL_: The Open Source Collaboration Opportunity for Ireland 
+- Open Source in Academia - Sayeed Choudhury, Carnegie Mellon University, Director of Open Forum for AI [PDF](<NOSIS-Conference/main-sessions/academia/Sayeed - Open Source in Academia -- NOSIS 2025.pptx.pdf>) [Recording](<https://youtu.be/YfVXtiyvb5U>)
+- Open Source at IBM Bill Higgins, IBM [PDF](<NOSIS-Conference/main-sessions/ibm/Bill Higgins - OpenSource at IBM - Bill Higgins.pptx.pdf>) [Recording](<https://youtu.be/uNugULfJmv4>)
+- _PANEL_: The Open Source Collaboration Opportunity for Ireland [Recording](<https://youtu.be/1RQoo3NKMy4>)
   - Dermot Casey, IRDG
   - Clare Dillon, Open Ireland Network
   - John Durcan, IDA
   - Kathryn Lynch, Innovate Island
 ### Open source 101
 - Open Source Business Basics - Malcolm Bain, Across Legal [PDF](<NOSIS-Conference/main-sessions/oss-101/Malcolm Bain Open source 101 Business Basics.pdf>) 
-- Setting Up Your OSS Management Process - Martin Callinan, Source Code Control & Joel Ratnosothy, Interneuron  [PDF](<NOSIS-Conference/main-sessions/oss-101/Martin Callinan - Open Ireland Feb 25.pptx.pdf>) 
-- How to Assess OSS Project Health - Daniel Izquierdo, Bitergia  [PDF](<NOSIS-Conference/main-sessions/oss-101/Daniel Izquierdo - How to Assess OSS Health.pdf>) 
-- Open Source Program Offices - an overview - Duane O'Brien, Capital One  [PDF](<NOSIS-Conference/main-sessions/oss-101/Duane O'Brien - Open Source Programs Offices - An Overview.pptx.pdf>) 
+- Setting Up Your OSS Management Process - Martin Callinan, Source Code Control & Joel Ratnosothy, Interneuron  [PDF](<NOSIS-Conference/main-sessions/oss-101/Martin Callinan - Open Ireland Feb 25.pptx.pdf>) [Recording](<https://youtu.be/W5q-XYkEHyg>)
+- How to Assess OSS Project Health - Daniel Izquierdo, Bitergia  [PDF](<NOSIS-Conference/main-sessions/oss-101/Daniel Izquierdo - How to Assess OSS Health.pdf>) [Recording](<https://youtu.be/FZQACxKO0gQ>)
+- Open Source Program Offices - an overview - Duane O'Brien, Capital One  [PDF](<NOSIS-Conference/main-sessions/oss-101/Duane O'Brien - Open Source Programs Offices - An Overview.pptx.pdf>) [Recording](<https://youtu.be/O5mx1q090aw>)
 
 # Business Track
 - Open Source for the Enterprise -Amanda Casari, Google [PDF](<NOSIS-Conference/tracks/business/enterprise/[INOSIS] amanda casari - The Business of Open Source @ Google.pdf>) 
