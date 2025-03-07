@@ -80,7 +80,7 @@ This repository contains presentations and materials from the National Open Sour
         -  Malvika Sharan, Alan Turing Institute
 
 - # Open Source AI Track
-    -  Open Source AI Definitions & Regulatory Overview - Ciaran O'Riordain, OFE [PDF](<NOSIS-Conference/tracks/open- source- ai/regulatory/oriordain-2025-01-07_AI_Act.pdf>) [Recording](<)
+    -  Open Source AI Definitions & Regulatory Overview - Ciaran O'Riordain, OFE [PDF](<NOSIS-Conference/tracks/open- source- ai/regulatory/oriordain-2025-01-07_AI_Act.pdf>) [Recording](<https://youtu.be/7Btw-3o6_l4>)
     -  5 Ways Open Source is Critical to the Future of AI - Sayeed Choudhury, CMU, OFAI [PDF](<NOSIS-Conference/tracks/open- source- ai/future/Sayeed - 5 Ways Open Source AI -- NOSIS 2025.pptx.pdf>) [Recording](<https://youtu.be/orcGMTlILtA>)
     - _PANEL_: Global Open Source AI Opportunity  [Recording](<https://youtu.be/TUankfM17VI>)
       -  Sayeed Choudhury, CMU, OFAI
