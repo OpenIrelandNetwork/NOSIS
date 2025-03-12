@@ -3,7 +3,7 @@
 The National Open Source Innovation Summit was held on the 7th of February 20025 and brought together a diverse ecosystem of technology leaders, innovators, and decision-makers across Ireland's business, academic, and public sectors. With over 200 attendees, the event demonstrated the growing strategic importance of open source across all sectors of the Irish economy.
 This event demonstrated Ireland's position as a hub for open source innovation, bringing together key stakeholders from enterprises, government, and academia to drive digital transformation and technological advancement, supported by a host of International expert speakers in attendance.
 
-# Our Sponsor
+# Our Sponsors
 A huge thank you to our sponsors who made this event possible
 ServisBOT, Technology Ireland ICT Skillnet, Flax & Teal Limited, IRDG SKillnet, Microsoft, Nearform, and Trinity College Dublin.
 
