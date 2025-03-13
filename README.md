@@ -24,7 +24,7 @@ Special thanks to our valued event partners for their support and collaboration:
 - **National Open Research Forum (NORF)**
 
 
-## Summit Repository
+# Summit Repository
 This repository contains presentations and materials from the National Open Source Innovation Summit, organized into the following tracks:
 
 # Opening Addresses
