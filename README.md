@@ -60,7 +60,7 @@ This repository contains presentations and materials from the National Open Sour
   - Bill Higgins, IBM
   - Colm Harte, NearForm
   - Oisin Hurley, Chunky Labs 
-  - A Vision of Open Source at Meredes-Benz -Dr Wolfgang Gehring, Mercedes-Benz [PDF](<NOSIS-Conference/tracks/business/mercedes/2025-02-07_The Power of FOSS - Insights from Mercedes- Benz_Wolfgang Gehring_Open Ireland.pdf>) [Recording](<https://youtu.be/NJJ7bNaB168>)
+  - A Vision of Open Source at Meredes-Benz -Dr Wolfgang Gehring, Mercedes-Benz [PDF](<NOSIS-Conference/tracks/business/mercedes/2025-02-07_The Power of FOSS - Insights from Mercedes-Benz_Wolfgang Gehring_Open Ireland.pdf>) [Recording](<https://youtu.be/NJJ7bNaB168>)
 
 - **PANEL** PANEL: Open Source for SME Competitiveness  [Recording](<https://youtu.be/UBVj0qB-Ric>)
  - Oisin Hurley, Chunky Labs 
