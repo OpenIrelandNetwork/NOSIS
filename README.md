@@ -205,8 +205,6 @@ _Recording unavailable due to audio issues_
 
 ## Afternoon Sessions (Post-Lunch)
 
-## Afternoon Sessions (Post-Lunch)
-
 ---
 
 ### The Summit Stage (Afternoon)
