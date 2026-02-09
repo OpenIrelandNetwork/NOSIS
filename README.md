@@ -51,14 +51,14 @@ We also thank our event partners for their collaboration and ecosystem support:
 **Descriptor:** Strategic context-setting from national, academic, industry, and international open source leaders.
 
 **Speakers:**  
-- Clare Dillon – Open Ireland Network  [PDF](Keynotes/ClaresDillon.pdf)  
-- Frank Kelly  - Ericssons [PDF](Keynotes/Frank_Kelly.pdf)  
-- Sayeed Choudhury – Open Forum for AI  [PDF](Keynotes/Sayeed.pdf)  
-- Sarah Novotny – Trinity College Dublin  [PDF](Keynotes/Novotny.pdf)  
-- Colin Keogh – Smart Lab  [PDF](Keynotes/Frank_Kelly.pdf)  
-- Kalle Westerling - Chainguard [PDF](Keynotes/Kalle.pdf)  
-- Andi Culhane - BioConductor [PDF](Keynotes/Culhane.pdf)  
-- Sachiko Muto – OpenForum Europe / RISE [PDF](Keynotes/Keogh.pdf)
+- Clare Dillon – Open Ireland Network  [PDF](NOSIS-2026/Keynotes/ClaresDillon.pdf)  
+- Frank Kelly  - Ericssons [PDF](NOSIS-2026/Keynotes/Frank_Kelly.pdf)  
+- Sayeed Choudhury – Open Forum for AI  [PDF](NOSIS-2026/Keynotes/Sayeed.pdf)  
+- Sarah Novotny – Trinity College Dublin  [PDF](NOSIS-2026/Keynotes/Novotny.pdf)  
+- Colin Keogh – Smart Lab  [PDF](NOSIS-2026/Keynotes/Frank_Kelly.pdf)  
+- Kalle Westerling - Chainguard [PDF](NOSIS-2026/Keynotes/Kalle.pdf)  
+- Andi Culhane - BioConductor [PDF](NOSIS-2026/Keynotes/Culhane.pdf)  
+- Sachiko Muto – OpenForum Europe / RISE [PDF](NOSIS-2026/Keynotes/Keogh.pdf)
 
 [Video – Keynotes & Opening Addresses – placeholder]  
 
@@ -101,13 +101,11 @@ We also thank our event partners for their collaboration and ecosystem support:
 - Frank Kilcommins, Jentic  
 - Ana Jiminez, Linux Foundation
 
-*An overview of where open source AI is headed globally and what that means for organizations building or deploying AI solutions.*
+*An overview of where open source AI is headed globally and what that means for organisations building or deploying AI solutions.*
 
 ---
 
-[PDF – Summit Stage (Mid-Morning) – placeholder]  
 [Video – Summit Stage (Mid-Morning) – placeholder]  
-[Video – Summit Stage (Mid-Morning) – placeholder]
 
 ---
 
@@ -151,8 +149,6 @@ We also thank our event partners for their collaboration and ecosystem support:
 
 ---
 
-[PDF – Ask the Experts (Mid-Morning) – placeholder]  
-[Video – Ask the Experts (Mid-Morning) – placeholder]  
 [Video – Ask the Experts (Mid-Morning) – placeholder]
 
 ---
