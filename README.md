@@ -52,13 +52,13 @@ We also thank our event partners for their collaboration and ecosystem support:
 
 **Speakers:**  
 - Clare Dillon – Open Ireland Network  [PDF](NOSIS-2026/Keynotes/ClaresDillon.pdf)  
-- Frank Kelly  - Ericssons [PDF](Keynotes/Frank_Kelly.pdf)  
-- Sayeed Choudhury – Open Forum for AI  [PDF](Keynotes/Sayeed.pdf)  
-- Sarah Novotny – Trinity College Dublin  [PDF](Keynotes/Novotny.pdf)  
-- Colin Keogh – Smart Lab  [PDF](Keynotes/Frank_Kelly.pdf)  
-- Kalle Westerling - Chainguard [PDF](Keynotes/Kalle.pdf)  
-- Andi Culhane - BioConductor [PDF](Keynotes/Culhane.pdf)  
-- Sachiko Muto – OpenForum Europe / RISE [PDF](Keynotes/Keogh.pdf)
+- Frank Kelly  - Ericssons [PDF](NOSIS-2026/Keynotes/Frank_Kelly.pdf)  
+- Sayeed Choudhury – Open Forum for AI  [PDF](NOSIS-2026/Keynotes/Sayeed.pdf)  
+- Sarah Novotny – Trinity College Dublin  [PDF](NOSIS-2026/Keynotes/Novotny.pdf)  
+- Colin Keogh – Smart Lab  [PDF](NOSIS-2026/Keynotes/Frank_Kelly.pdf)  
+- Kalle Westerling - Chainguard [PDF](NOSIS-2026/Keynotes/Kalle.pdf)  
+- Andi Culhane - BioConductor [PDF](NOSIS-2026/Keynotes/Culhane.pdf)  
+- Sachiko Muto – OpenForum Europe / RISE [PDF](NOSIS-2026/Keynotes/Keogh.pdf)
 
 [Video – Keynotes & Opening Addresses – placeholder]  
 
