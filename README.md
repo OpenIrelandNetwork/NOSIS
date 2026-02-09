@@ -101,13 +101,11 @@ We also thank our event partners for their collaboration and ecosystem support:
 - Frank Kilcommins, Jentic  
 - Ana Jiminez, Linux Foundation
 
-*An overview of where open source AI is headed globally and what that means for organizations building or deploying AI solutions.*
+*An overview of where open source AI is headed globally and what that means for organisations building or deploying AI solutions.*
 
 ---
 
-[PDF – Summit Stage (Mid-Morning) – placeholder]  
 [Video – Summit Stage (Mid-Morning) – placeholder]  
-[Video – Summit Stage (Mid-Morning) – placeholder]
 
 ---
 
@@ -151,8 +149,6 @@ We also thank our event partners for their collaboration and ecosystem support:
 
 ---
 
-[PDF – Ask the Experts (Mid-Morning) – placeholder]  
-[Video – Ask the Experts (Mid-Morning) – placeholder]  
 [Video – Ask the Experts (Mid-Morning) – placeholder]
 
 ---
