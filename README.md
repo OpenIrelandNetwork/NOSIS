@@ -315,5 +315,5 @@ _No presentation or recording placeholders required._
 
 ---
 
-*This file is a structured scaffold aligned to the NOSIS agenda format and is ready for linking into repositories, websites, or post-event archives.*
+
 
