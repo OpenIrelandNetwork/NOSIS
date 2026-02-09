@@ -51,18 +51,16 @@ We also thank our event partners for their collaboration and ecosystem support:
 **Descriptor:** Strategic context-setting from national, academic, industry, and international open source leaders.
 
 **Speakers:**  
-- Clare Dillon – Open Ireland Network  
-- Frank Kelly  
-- Sayeed Choudhury – Open Forum for AI  
-- Sarah Nooney – Trinity College Dublin  
-- Colin Keogh – Summit MC  
-- Katie Whelan  
-- Andi Cullane  
-- Sachiko Muto – OpenForum Europe / RISE
+- Clare Dillon – Open Ireland Network  [PDF](Keynotes/ClaresDillon.pdf)  
+- Frank Kelly  - Ericssons [PDF](Keynotes/Frank_Kelly.pdf)  
+- Sayeed Choudhury – Open Forum for AI  [PDF](Keynotes/Sayeed.pdf)  
+- Sarah Novotny – Trinity College Dublin  [PDF](Keynotes/Novotny.pdf)  
+- Colin Keogh – Smart Lab  [PDF](Keynotes/Frank_Kelly.pdf)  
+- Kalle Westerling - Chainguard [PDF](Keynotes/Kalle.pdf)  
+- Andi Culhane - BioConductor [PDF](Keynotes/Culhane.pdf)  
+- Sachiko Muto – OpenForum Europe / RISE [PDF](Keynotes/Keogh.pdf)
 
-[PDF – Keynotes & Opening Addresses – placeholder]  
 [Video – Keynotes & Opening Addresses – placeholder]  
-[Video – Keynotes & Opening Addresses – placeholder]
 
 ---
 
