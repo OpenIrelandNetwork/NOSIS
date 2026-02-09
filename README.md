@@ -51,7 +51,7 @@ We also thank our event partners for their collaboration and ecosystem support:
 **Descriptor:** Strategic context-setting from national, academic, industry, and international open source leaders.
 
 **Speakers:**  
-- Clare Dillon – Open Ireland Network  [PDF](Keynotes/ClaresDillon.pdf)  
+- Clare Dillon – Open Ireland Network  [PDF](NOSIS-2026/Keynotes/ClaresDillon.pdf)  
 - Frank Kelly  - Ericssons [PDF](Keynotes/Frank_Kelly.pdf)  
 - Sayeed Choudhury – Open Forum for AI  [PDF](Keynotes/Sayeed.pdf)  
 - Sarah Novotny – Trinity College Dublin  [PDF](Keynotes/Novotny.pdf)  
