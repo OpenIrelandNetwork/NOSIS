@@ -260,21 +260,22 @@ We also thank our event partners for their collaboration and ecosystem support:
 #### Creative Business Models for OSS Suppliers (Talk)
 **Speaker:** Phil Weir – Flax & Teal  
 *A case study of why and how one cultural institution built an open source ecosystem to drive sustainability.*  
-[PDF](NOSIS-2026/MorningAfternoon/Weir.pdf) 
+[PDF](NOSIS-2026/Afternoon/Weir.pdf) 
 
 ---
 
 #### DARE – An Ecosystem for AI Integration (Talk)
 **Speaker:** Vince Sha – Carnegie Mellon University  
 *A demo of DARE, a comprehensive platform that functions as a large language model (LLM) server starter pack for higher education.*  
-[PDF – Slides – placeholder]
+
+See Recordings for the Afternoon
 
 ---
 
 #### Open Source Licensing for Success (Talk)
 **Speaker:** Malcolm Bain – Across Legal  
 *Straightforward guidance on choosing and managing licenses to enable collaboration and avoid common pitfalls, including for open source AI.*  
-[PDF – Slides – placeholder]
+[PDF](NOSIS-2026/Afternoon/Bain101.pdf) 
 
 ---
 
@@ -285,14 +286,14 @@ We also thank our event partners for their collaboration and ecosystem support:
 #### Open Source in Europe / Global Dynamics
 **Speaker:** Daniel Izquierdo – Bitergia  
 *An exploration of global open source dynamics.*  
-[PDF – Slides – placeholder]
+[PDF](NOSIS-2026/Afternoon/Daniel.pdf) 
 
 ---
 
 #### Open Source in Stanford University (Talk)
 **Speaker:** Zach Chandler – Stanford University  
 *A case study of how a university OSPO is building open source capacity at Stanford.*  
-[PDF – Slides – placeholder]
+[PDF](NOSIS-2026/Afternoon/Zach.pdf)
 
 ---
 
