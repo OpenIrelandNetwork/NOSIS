@@ -1,13 +1,48 @@
 # National Open Source Innovation Summit 2026
 
-This document provides **single placeholder links** (PDF + Video) per agenda block for NOSIS 2026, based strictly on the published agenda layout.
+## Overview
 
-**Rules applied**
-- One **PDF placeholder** per agenda block (talk-based blocks only).
-- One **Video placeholder** per agenda block where recordings exist.
-- **Panels are ignored** (no placeholders).
-- **Deep Dive Talks** explicitly note that recordings are unavailable due to audio issues.
-- Each block includes the **descriptor text taken from the agenda**.
+**Shaping the Future of Open Source**
+
+Now in its second year, the National Open Source Innovation Summit 2026 convened leading international speakers and participants from across the open source community. The summit explored the opportunities and challenges for open source in government, industry, and academia, with a strong focus on real-world impact.
+
+The programme featured practical innovation stories, highlighted emerging trends, and fostered meaningful collaboration across sectors. Attendees connected with the people and organisations actively shaping the future of open source in Ireland and internationally.
+
+The National Open Source Innovation Summit 2026 took place at **Trinity College Business School**, providing a fitting academic and innovation-led setting for cross-sector dialogue.
+
+## Our 2026 Sponsors
+
+We gratefully acknowledge the organisations supporting the 2026 Summit. Their commitment enables a high‑quality, inclusive, and impactful national forum for open source innovation.
+
+### Platinum Sponsor
+
+- **Ericsson Software Technology**
+
+### Gold Sponsors
+
+- **Chainguard**
+- **IDA Ireland**
+- **Open Forum for AI (OFAI)**
+
+### Community Sponsors
+
+- **ADAPT Centre**
+- **Bank of Ireland**
+- **Cloudsmith**
+- **Flax & Teal Limited**
+- **IRDG**
+- **NearForm**
+- **NineDots**
+- **SecureLink**
+- **Technology Ireland ICT Skillnet**
+
+## Our Event Partners
+
+We also thank our event partners for their collaboration and ecosystem support:
+
+- **Irish Association for Software Architects (IASA)**
+- **L3RO – Software for a Better World**
+- **National Open Research Forum (NORF)**
 
 ---
 
