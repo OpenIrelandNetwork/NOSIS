@@ -160,40 +160,35 @@ We also thank our event partners for their collaboration and ecosystem support:
 #### Update on European Regulation Impacting OSS (Talk)
 **Speaker:** Ciarán O'Riordan – Eclipse Foundation  
 *What new and upcoming European regulations mean in practice for organisations using or producing open source.*  
-[PDF – Slides – placeholder]
+[PDF](NOSIS-2026/Morning/ORiordain.pdf)  
 
 ---
 
 #### How OSS Intersects with AI (Talk)
 **Speaker:** Sarah Novotny – Trinity College Dublin  
 *An exploration of global trends related to open source and GenAI.*  
-[PDF – Slides – placeholder]
+[PDF](NOSIS-2026/Morning/Novotny.pdf)  
 
 ---
 
 #### Building Trust in Software (Talk)
 **Speaker:** John Ellis – CodeThink  
 *An introduction to the Eclipse Trustable Software Framework.*  
-[PDF – Slides – placeholder]
+[PDF](NOSIS-2026/Morning/Ellis.pdf) 
 
 ---
 
 #### Public Sector Open Source in France (Talk)
 **Speaker:** Bastien Guerry – Software Heritage  
 *A case study describing how open source is managed in France at a national level.*  
-[PDF – Slides – placeholder]
+[PDF](NOSIS-2026/Morning/Bastien.pdf) 
 
 ---
 
 #### How Open Source Helps Us Build to Share (Talk)
 **Speaker:** Tony Shannon – Office of the Government CIO  
 *An update from the OGCIO on how open source building blocks are enabling a build-to-share strategy.*  
-[PDF – Slides – placeholder]
-
----
-
-[PDF – Deep Dive Talks (Mid-Morning) – placeholder]  
-_Recording unavailable due to audio issues_
+[PDF](NOSIS-2026/Morning/TShannon.pdf) 
 
 ---
 
@@ -207,7 +202,6 @@ _Recording unavailable due to audio issues_
 
 #### Open Source Program Offices (OSPOs) for Public Good (Panel)
 **Speakers:**  
-- Dawn Foster – CHAOSS (Moderator)  
 - Johan Linåker – RISE  
 - Omar Mohsine – United Nations  
 - Gina Platt – Dutch Ministry DSPO  
@@ -259,14 +253,14 @@ _Recording unavailable due to audio issues_
 #### Commercial Open Source Companies – Business Models (Talk)
 **Speaker:** Malcolm Bain – Across Legal  
 *An overview of proven and emerging business models for companies building on open source projects.*  
-[PDF – Slides – placeholder]
+[PDF](NOSIS-2026/Afternoon/BainCOSS.pdf) 
 
 ---
 
 #### Creative Business Models for OSS Suppliers (Talk)
 **Speaker:** Phil Weir – Flax & Teal  
 *A case study of why and how one cultural institution built an open source ecosystem to drive sustainability.*  
-[PDF – Slides – placeholder]
+[PDF](NOSIS-2026/MorningAfternoon/Weir.pdf) 
 
 ---
 
