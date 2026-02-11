@@ -14,7 +14,7 @@ The National Open Source Innovation Summit 2026 took place at **Trinity College 
 
 Resources, recordings, and materials from earlier editions of the summit:
 
-**National Open Source Innovation Summit 2025** — [Link to 2025 Readme & Event Resources]([./README -2025.md]
+**National Open Source Innovation Summit 2025** — [Readme & Event Resources](./README-2025.md)
 
 ## Our 2026 Sponsors
 
