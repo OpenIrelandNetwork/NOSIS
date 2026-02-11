@@ -10,6 +10,12 @@ The programme featured practical innovation stories, highlighted emerging trends
 
 The National Open Source Innovation Summit 2026 took place at **Trinity College Business School**, providing a fitting academic and innovation-led setting for cross-sector dialogue.
 
+## Previous Summits
+
+Resources, recordings, and materials from earlier editions of the summit:
+
+**National Open Source Innovation Summit 2025** — [Link to 2025 Readme & Event Resources](./NOSIS-2025-README.md)
+
 ## Our 2026 Sponsors
 
 We gratefully acknowledge the organisations supporting the 2026 Summit. Their commitment enables a high‑quality, inclusive, and impactful national forum for open source innovation.
