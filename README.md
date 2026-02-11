@@ -14,7 +14,7 @@ The National Open Source Innovation Summit 2026 took place at **Trinity College 
 
 Resources, recordings, and materials from earlier editions of the summit:
 
-**National Open Source Innovation Summit 2025** — [Link to 2025 Readme & Event Resources](./NOSIS-2025-README.md)
+**National Open Source Innovation Summit 2025** — [Link to 2025 Readme & Event Resources]([./NOSIS-2025-README.md](https://github.com/OpenIrelandNetwork/NOSIS/blob/main/README%20-2025.md))
 
 ## Our 2026 Sponsors
 
