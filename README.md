@@ -57,14 +57,14 @@ We also thank our event partners for their collaboration and ecosystem support:
 **Descriptor:** Strategic context-setting from national, academic, industry, and international open source leaders.
 
 **Speakers:**  
-- Clare Dillon – Open Ireland Network  [PDF](NOSIS-2026/Keynotes/ClaresDillon.pdf)  
-- Frank Kelly  - Ericssons [PDF](NOSIS-2026/Keynotes/Frank_Kelly.pdf)  
-- Sayeed Choudhury – Open Forum for AI  [PDF](NOSIS-2026/Keynotes/Sayeed.pdf)  
-- Sarah Novotny – Trinity College Dublin  [PDF](NOSIS-2026/Keynotes/Novotny.pdf)  
-- Colin Keogh – Smart Lab  [PDF](NOSIS-2026/Keynotes/Frank_Kelly.pdf)  
-- Kalle Westerling - Chainguard [PDF](NOSIS-2026/Keynotes/Kalle.pdf)  
-- Andi Culhane - BioConductor [PDF](NOSIS-2026/Keynotes/Culhane.pdf)  
-- Sachiko Muto – OpenForum Europe / RISE [PDF](NOSIS-2026/Keynotes/Keogh.pdf)
+- Clare Dillon – Open Ireland Network  [PDF](NOSIS-2026/Keynotes/ClaresDillon.pdf) | [Recording](https://youtu.be/6Dp0wHz0ZLQ)
+- Frank Kelly  - Ericssons [PDF](NOSIS-2026/Keynotes/Frank_Kelly.pdf) | [Recording](https://youtu.be/9rSrSWGjafE) 
+- Sayeed Choudhury – Open Forum for AI  [PDF](NOSIS-2026/Keynotes/Sayeed.pdf) | [Recording](https://youtu.be/Eo-hZO9H9dU)
+- Sarah Novotny – Trinity College Dublin  [PDF](NOSIS-2026/Keynotes/Novotny.pdf) | [Recording](https://youtu.be/zITpjcZhDoo)
+- Colin Keogh – Smart Lab  [PDF](NOSIS-2026/Keynotes/Frank_Kelly.pdf) | [Recording](https://youtu.be/gb_UgUA6w8M)
+- Kalle Westerling - Chainguard [PDF](NOSIS-2026/Keynotes/Kalle.pdf) | [Recording](https://youtu.be/kRH4sJKXh6I)
+- Aedín Culhane - BioConductor [PDF](NOSIS-2026/Keynotes/Culhane.pdf) | [Recording](https://youtu.be/HFfT91p-qmo)
+- Sachiko Muto – OpenForum Europe / RISE [PDF](NOSIS-2026/Keynotes/Keogh.pdf) | [Recording](https://youtu.be/Sqk14xC7DdU)
 
 [Video – Keynotes & Opening Addresses – placeholder]  
 
@@ -85,17 +85,21 @@ We also thank our event partners for their collaboration and ecosystem support:
 
 *Real-world stories of how organizations use open source ways of working to collaborate across teams, companies, and sectors at scale.*
 
+[Recording](https://youtu.be/wfbtmN-9vNw)
+
 ---
 
 #### Open Source for Open Research (Panel)
 **Speakers:**  
-- Aedin Culhane, University of Limerick  
+- Aedín Culhane, University of Limerick  
 - Clare Dillon, Open Ireland Network (Moderator)  
 - Josh Greenberg, Alfred P. Sloan Foundation  
 - Angela Newell, University of Texas  
 - Brian Fitzgerald, Lero
 
 *A discussion covering how open source underpins open research, research software sustainability, and evolving global practices.*
+
+[Recording](https://youtu.be/Ecs1x9wrbrU)
 
 ---
 
@@ -108,6 +112,8 @@ We also thank our event partners for their collaboration and ecosystem support:
 - Ana Jiminez, Linux Foundation
 
 *An overview of where open source AI is headed globally and what that means for organisations building or deploying AI solutions.*
+
+[Recording](https://youtu.be/WEes7puDQwY)
 
 ---
 
@@ -129,6 +135,8 @@ We also thank our event partners for their collaboration and ecosystem support:
 
 *A hands-on discussion focused on talent, training, and pathways to build open source capability for next-generation software development across education, industry, and government.*
 
+[Recording](https://youtu.be/7knejGClL40)
+
 ---
 
 #### Making Open Source Work in the Public Sector
@@ -141,6 +149,8 @@ We also thank our event partners for their collaboration and ecosystem support:
 
 *Lessons from public-sector practitioners on using open source to deliver better services while managing risk and governance.*
 
+[Recording](https://youtu.be/wwNR2yXrClE)
+
 ---
 
 #### Opportunities for Commercial Open Source Companies
@@ -152,6 +162,8 @@ We also thank our event partners for their collaboration and ecosystem support:
 - Phil Weir – Flax & Teal
 
 *A candid conversation about where the real commercial opportunities are for open source companies today.*
+
+[Recording](https://youtu.be/zuGa44QP13E)
 
 ---
 
@@ -215,6 +227,8 @@ We also thank our event partners for their collaboration and ecosystem support:
 
 *How open source program offices (OSPOs) are being used to enable better public value in organisations working for the public good.*
 
+[Recording](https://youtu.be/Ucyqgg5GZZ8)
+
 ---
 
 #### Open Source for Innovation (Panel)
@@ -238,6 +252,8 @@ We also thank our event partners for their collaboration and ecosystem support:
 - John Durcan – IDA
 
 *A strategic discussion on how Ireland can position itself in the context of the global open source AI innovation ecosystem.*
+
+[Recording](https://youtu.be/NIu8T5_EAOA)
 
 ---
 
@@ -281,7 +297,7 @@ See Recordings for the Afternoon
 #### Open Source Licensing for Success (Talk)
 **Speaker:** Malcolm Bain – Across Legal  
 *Straightforward guidance on choosing and managing licenses to enable collaboration and avoid common pitfalls, including for open source AI.*  
-[PDF](NOSIS-2026/Afternoon/Bain101.pdf) 
+[PDF](NOSIS-2026/Afternoon/Bain101.pdf) | [Recording](https://youtu.be/BHJ5EFJH4gc)
 
 ---
 
@@ -292,14 +308,14 @@ See Recordings for the Afternoon
 #### Open Source in Europe / Global Dynamics
 **Speaker:** Daniel Izquierdo – Bitergia  
 *An exploration of global open source dynamics.*  
-[PDF](NOSIS-2026/Afternoon/Daniel.pdf) 
+[PDF](NOSIS-2026/Afternoon/Daniel.pdf) | [Recording](https://youtu.be/S8-zSFjnQaw)
 
 ---
 
 #### Open Source in Stanford University (Talk)
 **Speaker:** Zach Chandler – Stanford University  
 *A case study of how a university OSPO is building open source capacity at Stanford.*  
-[PDF](NOSIS-2026/Afternoon/Zach.pdf)
+[PDF](NOSIS-2026/Afternoon/Zach.pdf) | [Recording](https://youtu.be/JP8Ez74OI_s)
 
 ---
 
@@ -321,6 +337,3 @@ See Recordings for the Afternoon
 _No presentation or recording placeholders required._
 
 ---
-
-
-
