@@ -66,8 +66,6 @@ We also thank our event partners for their collaboration and ecosystem support:
 - Aedín Culhane - BioConductor [PDF](NOSIS-2026/Keynotes/Culhane.pdf) | [Recording](https://youtu.be/HFfT91p-qmo)
 - Sachiko Muto – OpenForum Europe / RISE [PDF](NOSIS-2026/Keynotes/Keogh.pdf) | [Recording](https://youtu.be/Sqk14xC7DdU)
 
-[Video – Keynotes & Opening Addresses – placeholder]  
-
 ---
 
 ## Mid-Morning Sessions
@@ -117,10 +115,6 @@ We also thank our event partners for their collaboration and ecosystem support:
 
 ---
 
-[Video – Summit Stage (Mid-Morning) – placeholder]  
-
----
-
 ### Ask the Experts
 
 **Descriptor:** Interactive, practitioner-led discussions focused on skills, public-sector delivery, and commercial sustainability in open source.
@@ -165,9 +159,6 @@ We also thank our event partners for their collaboration and ecosystem support:
 
 [Recording](https://youtu.be/zuGa44QP13E)
 
----
-
-[Video – Ask the Experts (Mid-Morning) – placeholder]
 
 ---
 
@@ -290,7 +281,7 @@ We also thank our event partners for their collaboration and ecosystem support:
 **Speaker:** Vince Sha – Carnegie Mellon University  
 *A demo of DARE, a comprehensive platform that functions as a large language model (LLM) server starter pack for higher education.*  
 
-See Recordings for the Afternoon
+[Recording](https://youtu.be/-3nGRCMzMFU)
 
 ---
 
@@ -320,13 +311,9 @@ See Recordings for the Afternoon
 ---
 
 #### Top Tips for Publishing Successful OSS Projects (Talk)
-**Speaker:** Danese Cooper – DancesWithGoats  
+**Speaker:** Danese Cooper – DaneseWorks
 *Practical advice on launching, growing, and sustaining open source projects that others actually want to use.*  
-[PDF – Slides – placeholder]
-
----
-
-[Video – Afternoon Sessions – placeholder]
+  [Recording](https://youtu.be/W1DwX_aLhkg)
 
 ---
 
