@@ -232,6 +232,8 @@ We also thank our event partners for their collaboration and ecosystem support:
 
 *How organisations use open source to accelerate innovation, reduce duplication, and collaborate across ecosystems.*
 
+[Recording](https://youtu.be/iKzh_SqZe_M)
+
 ---
 
 #### Open Source AI – Ireland’s Opportunity (Panel)
