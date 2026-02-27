@@ -173,35 +173,35 @@ We also thank our event partners for their collaboration and ecosystem support:
 #### Update on European Regulation Impacting OSS (Talk)
 **Speaker:** Ciarán O'Riordan – Eclipse Foundation  
 *What new and upcoming European regulations mean in practice for organisations using or producing open source.*  
-[PDF](NOSIS-2026/Morning/ORiordain.pdf)  
+[PDF](NOSIS-2026/Morning/ORiordain.pdf)  _-  We are sorry that a technical issue at the venue prevented us from capturing the audio for this talk._
 
 ---
 
 #### How OSS Intersects with AI (Talk)
 **Speaker:** Sarah Novotny – Trinity College Dublin  
 *An exploration of global trends related to open source and GenAI.*  
-[PDF](NOSIS-2026/Morning/Novotny.pdf)  
+[PDF](NOSIS-2026/Morning/Novotny.pdf)  _-  We are sorry that a technical issue at the venue prevented us from capturing the audio for this talk._
 
 ---
 
 #### Building Trust in Software (Talk)
 **Speaker:** John Ellis – CodeThink  
 *An introduction to the Eclipse Trustable Software Framework.*  
-[PDF](NOSIS-2026/Morning/Ellis.pdf) 
+[PDF](NOSIS-2026/Morning/Ellis.pdf) _-  We are sorry that a technical issue at the venue prevented us from capturing the audio for this talk._
 
 ---
 
 #### Public Sector Open Source in France (Talk)
 **Speaker:** Bastien Guerry – Software Heritage  
 *A case study describing how open source is managed in France at a national level.*  
-[PDF](NOSIS-2026/Morning/Bastien.pdf) 
+[PDF](NOSIS-2026/Morning/Bastien.pdf)  _-  We are sorry that a technical issue at the venue prevented us from capturing the audio for this talk._
 
 ---
 
 #### How Open Source Helps Us Build to Share (Talk)
 **Speaker:** Tony Shannon – Office of the Government CIO  
 *An update from the OGCIO on how open source building blocks are enabling a build-to-share strategy.*  
-[PDF](NOSIS-2026/Morning/TShannon.pdf) 
+[PDF](NOSIS-2026/Morning/TShannon.pdf)  _-  We are sorry that a technical issue at the venue prevented us from capturing the audio for this talk._
 
 ---
 
@@ -272,14 +272,14 @@ We also thank our event partners for their collaboration and ecosystem support:
 #### Commercial Open Source Companies – Business Models (Talk)
 **Speaker:** Malcolm Bain – Across Legal  
 *An overview of proven and emerging business models for companies building on open source projects.*  
-[PDF](NOSIS-2026/Afternoon/BainCOSS.pdf) 
+[PDF](NOSIS-2026/Afternoon/BainCOSS.pdf) _-  We are sorry that a technical issue at the venue prevented us from capturing the audio for this talk._
 
 ---
 
 #### Creative Business Models for OSS Suppliers (Talk)
 **Speaker:** Phil Weir – Flax & Teal  
 *A case study of why and how one cultural institution built an open source ecosystem to drive sustainability.*  
-[PDF](NOSIS-2026/Afternoon/Weir.pdf) 
+[PDF](NOSIS-2026/Afternoon/Weir.pdf) _-  We are sorry that a technical issue at the venue prevented us from capturing the audio for this talk._
 
 ---
 
